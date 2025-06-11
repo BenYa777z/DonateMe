@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://auth.quartyz.com/scripts/Loader.lua"))()
+loadstring(game:HttpGet("https://rifton.top/loader.lua"))()
